@@ -27,7 +27,7 @@ Our analysis shows that **sales are strongly driven by product demand and season
 - Product category is the most important factor for predicting sales, while city/location contributes little.
 
 **Recommendations:**  
-- 📦 **Prioritize restocking** fast-moving products to meet demand without running out of stock.  
-- 📈 **Plan inventory ahead of seasonal spikes** (e.g., February) and adjust after March to prevent overstocking.  
-- 💰 **Maintain a balance** by keeping premium, low-volume products in stock since they bring high revenue margins.  
-- 🏙️ **Reduce dependency on city/location** as a planning factor, and instead focus on product type and demand trends.
+- **Prioritize restocking** fast-moving products to meet demand without running out of stock.  
+- **Plan inventory ahead of seasonal spikes** (e.g., February) and adjust after March to prevent overstocking.  
+- **Maintain a balance** by keeping premium, low-volume products in stock since they bring high revenue margins.  
+- **Reduce dependency on city/location** as a planning factor, and instead focus on product type and demand trends.
